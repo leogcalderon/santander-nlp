@@ -23,7 +23,7 @@ Utilicé los pesos del modelo [BETO](https://github.com/dccuchile/beto) (Bidirec
 
 La librería con la que realicé el pre-procesado y la creación del modelo fué [transformers](https://github.com/huggingface/transformers)
 
-El score alcanzado fue de: #####
+El score alcanzado fue de: 0.7982321122362586 (Puesto 19)
 
 
 
